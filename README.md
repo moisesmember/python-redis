@@ -17,3 +17,5 @@ votação simples em Python e conectado ao Redis
 <a href="https://redis.io/topics/quickstart">Redis Quick Start</a>
 </br>
 <a href="https://medium.com/@engnogueirawgn/redis-keys-74eccbe77257">Redis - Keys</a>
+</br>
+<a href="https://rpubs.com/davimat/binompy">Binominal em Python</a>
